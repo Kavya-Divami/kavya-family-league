@@ -1,0 +1,17 @@
+# Environment / secrets
+.env
+
+# Build output
+target/
+
+# Logs
+logs/
+*.log
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# OS files
+.DS_Store
